@@ -364,9 +364,9 @@ debug@^4.1.0:
     ms "2.1.2"
 
 electron-to-chromium@^1.3.878:
-  version "1.3.880"
-  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.3.880.tgz#58d1a298c5267f2faf440683d038c50ab39a6401"
-  integrity sha512-iwIP/6WoeSimzUKJIQtjtpVDsK8Ir8qQCMXsUBwg+rxJR2Uh3wTNSbxoYRfs+3UWx/9MAnPIxVZCyWkm8MT0uw==
+  version "1.3.881"
+  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.3.881.tgz#1282881dffa57b6111fb94cb196e558be249fbfb"
+  integrity sha512-XoAaO4CXk7FXtF2JH0PJ7KgHL1PyZ76G+NhuL337pMiOGlEWwTTSzMQyYZvxN97d9KhdLMOW8XVVk/6sN2Xflw==
 
 esbuild-android-arm64@0.13.9:
   version "0.13.9"
@@ -686,9 +686,9 @@ typescript@^4.3.2:
   integrity sha512-DqGhF5IKoBl8WNf8C1gu8q0xZSInh9j1kJJMqT3a94w1JzVaBU4EXOSMrz9yDqMT0xt3selp83fuFMQ0uzv6qA==
 
 vite@^2.6.4:
-  version "2.6.12"
-  resolved "https://registry.yarnpkg.com/vite/-/vite-2.6.12.tgz#17d819ca6766f59a7609a50ab8a2d2cdc05f1523"
-  integrity sha512-0K7HUgAFiWOCWMkshjunCieTgawoSfmtExTwNoaVc5uTUb3ZEWb3DUP9Ze1l5dZZBxmNrbo5GrmJp2UJA3g+jA==
+  version "2.6.13"
+  resolved "https://registry.yarnpkg.com/vite/-/vite-2.6.13.tgz#16b3ec85a66d5b461ac29a903874d4357f9af432"
+  integrity sha512-+tGZ1OxozRirTudl4M3N3UTNJOlxdVo/qBl2IlDEy/ZpTFcskp+k5ncNjayR3bRYTCbqSOFz2JWGN1UmuDMScA==
   dependencies:
     esbuild "^0.13.2"
     postcss "^8.3.8"
