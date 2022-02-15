@@ -373,9 +373,9 @@ debug@^4.1.0:
     ms "2.1.2"
 
 electron-to-chromium@^1.4.17:
-  version "1.4.68"
-  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.68.tgz#d79447b6bd1bec9183f166bb33d4bef0d5e4e568"
-  integrity sha512-cId+QwWrV8R1UawO6b9BR1hnkJ4EJPCPAr4h315vliHUtVUJDk39Sg1PMNnaWKfj5x+93ssjeJ9LKL6r8LaMiA==
+  version "1.4.69"
+  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.69.tgz#d52eb7887d2ec5ba62a8cb3491b990983cb6d2e0"
+  integrity sha512-0rxK21MqWhN/fVUXNOeBksRlw79Wq26y6R8lxEEL2v7vwzRWbYhXI7Id5msee7/q1NNgu4mG78qaablN2xtfTQ==
 
 esbuild-android-arm64@0.14.21:
   version "0.14.21"
@@ -586,9 +586,9 @@ ms@2.1.2:
   integrity sha512-sGkPx+VjMtmA6MX27oA4FBFELFCZZ4S4XqeGOXCv68tT+jb3vk/RyaKWP0PTKyWtmLSM0b+adUTEvbs1PEaH2w==
 
 nanoid@^3.2.0:
-  version "3.2.0"
-  resolved "https://registry.yarnpkg.com/nanoid/-/nanoid-3.2.0.tgz#62667522da6673971cca916a6d3eff3f415ff80c"
-  integrity sha512-fmsZYa9lpn69Ad5eDn7FMcnnSR+8R34W9qJEijxYhTbfOWzr22n1QxCMzXLK+ODyW2973V3Fux959iQoUxzUIA==
+  version "3.3.0"
+  resolved "https://registry.yarnpkg.com/nanoid/-/nanoid-3.3.0.tgz#5906f776fd886c66c24f3653e0c46fcb1d4ad6b0"
+  integrity sha512-JzxqqT5u/x+/KOFSd7JP15DOo9nOoHpx6DYatqIHUW2+flybkm+mdcraotSQR5WcnZr+qhGVh8Ted0KdfSMxlg==
 
 node-releases@^2.0.1:
   version "2.0.2"
@@ -713,9 +713,9 @@ typescript@^4.5.4:
   integrity sha512-TCTIul70LyWe6IJWT8QSYeA54WQe8EjQFU4wY52Fasj5UKx88LNYKCgBEHcOMOrFF1rKGbD8v/xcNWVUq9SymA==
 
 vite@^2.8.0:
-  version "2.8.1"
-  resolved "https://registry.yarnpkg.com/vite/-/vite-2.8.1.tgz#4b2a42c1d01d6786a2a4c278cd0ba7223b8ec15c"
-  integrity sha512-Typ8qjUnW0p53gBsJpisrKcZlEbUPZATja9BG6Z09QZjg9YrnEn/htkr/VH4WhnH7eNUQeSD+wKI1lHzQRWskw==
+  version "2.8.2"
+  resolved "https://registry.yarnpkg.com/vite/-/vite-2.8.2.tgz#6bced4a0a8b0db24636f5159c3f371c156521a58"
+  integrity sha512-zawfykcPVPYva4KusIWORNLr324Qx86/3NpfQSIOJdjnL5pYhwDoImLYMOh4lFLcP/7//tNuWM2vx2F5OSVC9w==
   dependencies:
     esbuild "^0.14.14"
     postcss "^8.4.6"
