@@ -524,7 +524,7 @@ escalade@^3.1.1:
 escape-string-regexp@^1.0.5:
   version "1.0.5"
   resolved "https://registry.yarnpkg.com/escape-string-regexp/-/escape-string-regexp-1.0.5.tgz#1b61c0562190a8dff6ae3bb2cf0200ca130b86d4"
-  integrity sha1-G2HAViGQqN/2rjuyzwIAyhMLhtQ=
+  integrity sha512-vbRorB5FUQWvla16U8R/qgaFIya2qGzwDrNmCZuYKrbdSUMG6I1ZCGQRefkRVhuOkIGVne7BQ35DSfo1qvJqFg==
 
 estree-walker@^2.0.1:
   version "2.0.2"
@@ -661,9 +661,9 @@ resolve@^1.22.0:
     supports-preserve-symlinks-flag "^1.0.0"
 
 rollup@^2.59.0:
-  version "2.75.0"
-  resolved "https://registry.yarnpkg.com/rollup/-/rollup-2.75.0.tgz#c4c1c2bf46c706823f5f0eee046c7a1cbdda5038"
-  integrity sha512-1/wxtweHJ7YwI2AIK3ZgCBU3nbW8sLnBIFwN46cwOTnVzt8f1o6J8zPKjwoiuADvzSjmnLqJce31p0q2vQ+dqw==
+  version "2.75.1"
+  resolved "https://registry.yarnpkg.com/rollup/-/rollup-2.75.1.tgz#9024223a8000f9ad936b8607c1bc7abcfcbdd1f1"
+  integrity sha512-zD73rq3Fanr/spmiybMqmGEvOpryj/heLqOb+lubxiXlo8azeJ/z306T2dJYuzfWZPQBS0OT++GXG6Lbd4ToKw==
   optionalDependencies:
     fsevents "~2.3.2"
 
