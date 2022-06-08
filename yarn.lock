@@ -330,20 +330,20 @@ ansi-styles@^3.2.1:
     color-convert "^1.9.0"
 
 browserslist@^4.20.2:
-  version "4.20.3"
-  resolved "https://registry.yarnpkg.com/browserslist/-/browserslist-4.20.3.tgz#eb7572f49ec430e054f56d52ff0ebe9be915f8bf"
-  integrity sha512-NBhymBQl1zM0Y5dQT/O+xiLP9/rzOIQdKM/eMJBAq7yBgaB6krIYLGejrwVYnSHZdqjscB1SPuAjHwxjvN6Wdg==
+  version "4.20.4"
+  resolved "https://registry.yarnpkg.com/browserslist/-/browserslist-4.20.4.tgz#98096c9042af689ee1e0271333dbc564b8ce4477"
+  integrity sha512-ok1d+1WpnU24XYN7oC3QWgTyMhY/avPJ/r9T00xxvUOIparA/gc+UPUMaod3i+G6s+nI2nUb9xZ5k794uIwShw==
   dependencies:
-    caniuse-lite "^1.0.30001332"
-    electron-to-chromium "^1.4.118"
+    caniuse-lite "^1.0.30001349"
+    electron-to-chromium "^1.4.147"
     escalade "^3.1.1"
-    node-releases "^2.0.3"
+    node-releases "^2.0.5"
     picocolors "^1.0.0"
 
-caniuse-lite@^1.0.30001332:
-  version "1.0.30001346"
-  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001346.tgz#e895551b46b9cc9cc9de852facd42f04839a8fbe"
-  integrity sha512-q6ibZUO2t88QCIPayP/euuDREq+aMAxFE5S70PkrLh0iTDj/zEhgvJRKC2+CvXY6EWc6oQwUR48lL5vCW6jiXQ==
+caniuse-lite@^1.0.30001349:
+  version "1.0.30001349"
+  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001349.tgz#90740086a2eb2e825084944169d313c9793aeba4"
+  integrity sha512-VFaWW3jeo6DLU5rwdiasosxhYSduJgSGil4cSyX3/85fbctlE58pXAkWyuRmVA0r2RxsOSVYUTZcySJ8WpbTxw==
 
 chalk@^2.0.0:
   version "2.4.2"
@@ -385,10 +385,10 @@ debug@^4.1.0:
   dependencies:
     ms "2.1.2"
 
-electron-to-chromium@^1.4.118:
-  version "1.4.147"
-  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.147.tgz#1ecf318737b21ba1e5b53319eb1edf8143892270"
-  integrity sha512-czclPqxLMPqPMkahKcske4TaS5lcznsc26ByBlEFDU8grTBVK9C5W6K9I6oEEhm4Ai4jTihGnys90xY1yjXcRg==
+electron-to-chromium@^1.4.147:
+  version "1.4.148"
+  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.148.tgz#437430e03c58ccd1d05701f66980afe54d2253ec"
+  integrity sha512-8MJk1bcQUAYkuvCyWZxaldiwoDG0E0AMzBGA6cv3WfuvJySiPgfidEPBFCRRH3cZm6SVZwo/oRlK1ehi1QNEIQ==
 
 esbuild-android-64@0.14.42:
   version "0.14.42"
@@ -602,7 +602,7 @@ nanoid@^3.3.4:
   resolved "https://registry.yarnpkg.com/nanoid/-/nanoid-3.3.4.tgz#730b67e3cd09e2deacf03c027c81c9d9dbc5e8ab"
   integrity sha512-MqBkQh/OHTS2egovRtLk45wEyNXwF+cokD+1YPf9u5VfJiRdAiRwB2froX5Co9Rh20xs4siNPm8naNotSD6RBw==
 
-node-releases@^2.0.3:
+node-releases@^2.0.5:
   version "2.0.5"
   resolved "https://registry.yarnpkg.com/node-releases/-/node-releases-2.0.5.tgz#280ed5bc3eba0d96ce44897d8aee478bfb3d9666"
   integrity sha512-U9h1NLROZTq9uE1SNffn6WuPDg8icmi3ns4rEl/oTfIle4iLjTliCzgTsbaIFMq/Xn078/lfY/BL0GWZ+psK4Q==
@@ -661,9 +661,9 @@ resolve@^1.22.0:
     supports-preserve-symlinks-flag "^1.0.0"
 
 rollup@^2.59.0:
-  version "2.75.5"
-  resolved "https://registry.yarnpkg.com/rollup/-/rollup-2.75.5.tgz#7985c1962483235dd07966f09fdad5c5f89f16d0"
-  integrity sha512-JzNlJZDison3o2mOxVmb44Oz7t74EfSd1SQrplQk0wSaXV7uLQXtVdHbxlcT3w+8tZ1TL4r/eLfc7nAbz38BBA==
+  version "2.75.6"
+  resolved "https://registry.yarnpkg.com/rollup/-/rollup-2.75.6.tgz#ac4dc8600f95942a0180f61c7c9d6200e374b439"
+  integrity sha512-OEf0TgpC9vU6WGROJIk1JA3LR5vk/yvqlzxqdrE2CzzXnqKXNzbAwlWUXis8RS3ZPe7LAq+YUxsRa0l3r27MLA==
   optionalDependencies:
     fsevents "~2.3.2"
 
