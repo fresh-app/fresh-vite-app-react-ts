@@ -392,9 +392,9 @@ debug@^4.1.0:
     ms "2.1.2"
 
 electron-to-chromium@^1.4.251:
-  version "1.4.261"
-  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.261.tgz#31f14ad60c6f95bec404a77a2fd5e1962248e112"
-  integrity sha512-fVXliNUGJ7XUVJSAasPseBbVgJIeyw5M1xIkgXdTSRjlmCqBbiSTsEdLOCJS31Fc8B7CaloQ/BFAg8By3ODLdg==
+  version "1.4.263"
+  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.263.tgz#4cbb8263165cd6d7d1ffb39ce27e2ce6a7f6cb5b"
+  integrity sha512-RcvChwbVkZBe7e+B23+wjXJgRHTy9Byu6JEL8HuNKILALs98deLnyGqv73nvwRKj6VGghrwnwKWC3ukVhQDvpQ==
 
 esbuild-android-64@0.15.9:
   version "0.15.9"
