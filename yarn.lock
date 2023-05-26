@@ -430,9 +430,9 @@
     fastq "^1.6.0"
 
 "@types/json-schema@^7.0.9":
-  version "7.0.11"
-  resolved "https://registry.yarnpkg.com/@types/json-schema/-/json-schema-7.0.11.tgz#d421b6c527a3037f7c84433fd2c4229e016863d3"
-  integrity sha512-wOuvG1SN4Us4rez+tylwwwCV1psiNVOkJeM3AUWUNWg/jDQY2+HE/444y5gc+jBmRqASOm2Oeh5c1axHobwRKQ==
+  version "7.0.12"
+  resolved "https://registry.yarnpkg.com/@types/json-schema/-/json-schema-7.0.12.tgz#d70faba7039d5fca54c83c7dbab41051d2b6f6cb"
+  integrity sha512-Hr5Jfhc9eYOQNPYO5WLDq/n4jqijdHNlDXjuAQkkt+mWdQR+XJToOHrsD4cPaMXpn6KO7y2+wM8AZEs8VpBLVA==
 
 "@types/prop-types@*":
   version "15.7.5"
@@ -740,9 +740,9 @@ doctrine@^3.0.0:
     esutils "^2.0.2"
 
 electron-to-chromium@^1.4.284:
-  version "1.4.406"
-  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.406.tgz#6388f92a0443d0f0ffcda890489edbe2012488f2"
-  integrity sha512-NXlDDH8Z4tK5ZX7w9dW/lRUsZ0TwL1rg3Sw1e5HKbk3+LCAh3SyUjYyGoxOf9xNxyg+DtaofkFpHS4T5Z2Q26w==
+  version "1.4.408"
+  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.408.tgz#73e657a24bd0b7481d68c943dded0d097b0d0a52"
+  integrity sha512-vjeaj0u/UYnzA/CIdGXzzcxRLCqRwREYc9YfaWInjIEr7/XPttZ6ShpyqapchEy0S2r6LpLjDBTnNj7ZxnxJKg==
 
 esbuild@^0.17.5:
   version "0.17.19"
