@@ -654,9 +654,9 @@ callsites@^3.0.0:
   integrity sha512-P8BjAsXvZS+VIDUI11hHCQEv74YT67YUi5JJFNWIqL235sBmjX4+qx9Muvls5ivyNENctx46xQLQ3aTuE7ssaQ==
 
 caniuse-lite@^1.0.30001503:
-  version "1.0.30001513"
-  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001513.tgz#382fe5fbfb0f7abbaf8c55ca3ac71a0307a752e9"
-  integrity sha512-pnjGJo7SOOjAGytZZ203Em95MRM8Cr6jhCXNF/FAXTpCTRTECnqQWLpiTRqrFtdYcth8hf4WECUpkezuYsMVww==
+  version "1.0.30001514"
+  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001514.tgz#e2a7e184a23affc9367b7c8d734e7ec4628c1309"
+  integrity sha512-ENcIpYBmwAAOm/V2cXgM7rZUrKKaqisZl4ZAI520FIkqGXUxJjmaIssbRW5HVVR5tyV6ygTLIm15aU8LUmQSaQ==
 
 chalk@^2.0.0:
   version "2.4.2"
@@ -803,9 +803,9 @@ eslint-plugin-react-hooks@^4.6.0:
   integrity sha512-oFc7Itz9Qxh2x4gNHStv3BqJq54ExXmfC+a1NjAta66IAN87Wu0R/QArgIS9qKzX3dXKPI9H5crl9QchNMY9+g==
 
 eslint-plugin-react-refresh@^0.4.1:
-  version "0.4.2"
-  resolved "https://registry.yarnpkg.com/eslint-plugin-react-refresh/-/eslint-plugin-react-refresh-0.4.2.tgz#0c502828db7341ab9030195c352b09bd23a74d99"
-  integrity sha512-AjT+7woNvaIiFoFqiD7nsd/M1MoW1h+8SAdfCpQ/1LSFkIH9DNAawBsTHj/1sWjijkVXRfF/rOiXFm+4xZrZ5Q==
+  version "0.4.3"
+  resolved "https://registry.yarnpkg.com/eslint-plugin-react-refresh/-/eslint-plugin-react-refresh-0.4.3.tgz#59dae8c00a119f06ea16b1d3e6891df3775947c7"
+  integrity sha512-Hh0wv8bUNY877+sI0BlCUlsS0TYYQqvzEwJsJJPM2WF4RnTStSnSR3zdJYa2nPOJgg3UghXi54lVyMSmpCalzA==
 
 eslint-scope@^5.1.1:
   version "5.1.1"
