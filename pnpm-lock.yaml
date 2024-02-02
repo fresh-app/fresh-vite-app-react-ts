@@ -15,7 +15,7 @@ dependencies:
 devDependencies:
   '@types/react':
     specifier: ^18.2.43
-    version: 18.2.48
+    version: 18.2.51
   '@types/react-dom':
     specifier: ^18.2.17
     version: 18.2.18
@@ -505,7 +505,7 @@ packages:
       debug: 4.3.4
       espree: 9.6.1
       globals: 13.24.0
-      ignore: 5.3.0
+      ignore: 5.3.1
       import-fresh: 3.3.0
       js-yaml: 4.1.0
       minimatch: 3.1.2
@@ -738,11 +738,11 @@ packages:
   /@types/react-dom@18.2.18:
     resolution: {integrity: sha512-TJxDm6OfAX2KJWJdMEVTwWke5Sc/E/RlnPGvGfS0W7+6ocy2xhDVQVh/KvC2Uf7kACs+gDytdusDSdWfWkaNzw==}
     dependencies:
-      '@types/react': 18.2.48
+      '@types/react': 18.2.51
     dev: true
 
-  /@types/react@18.2.48:
-    resolution: {integrity: sha512-qboRCl6Ie70DQQG9hhNREz81jqC1cs9EVNcjQ1AU+jH6NFfSAhVVbrrY/+nSF+Bsk4AOwm9Qa61InvMCyV+H3w==}
+  /@types/react@18.2.51:
+    resolution: {integrity: sha512-XeoMaU4CzyjdRr3c4IQQtiH7Rpo18V07rYZUucEZQwOUEtGgTXv7e6igQiQ+xnV6MbMe1qjEmKdgMNnfppnXfg==}
     dependencies:
       '@types/prop-types': 15.7.11
       '@types/scheduler': 0.16.8
@@ -777,7 +777,7 @@ packages:
       debug: 4.3.4
       eslint: 8.56.0
       graphemer: 1.4.0
-      ignore: 5.3.0
+      ignore: 5.3.1
       natural-compare: 1.4.0
       semver: 7.5.4
       ts-api-utils: 1.0.3(typescript@5.3.3)
@@ -989,8 +989,8 @@ packages:
     engines: {node: ^6 || ^7 || ^8 || ^9 || ^10 || ^11 || ^12 || >=13.7}
     hasBin: true
     dependencies:
-      caniuse-lite: 1.0.30001581
-      electron-to-chromium: 1.4.653
+      caniuse-lite: 1.0.30001582
+      electron-to-chromium: 1.4.654
       node-releases: 2.0.14
       update-browserslist-db: 1.0.13(browserslist@4.22.3)
     dev: true
@@ -1000,8 +1000,8 @@ packages:
     engines: {node: '>=6'}
     dev: true
 
-  /caniuse-lite@1.0.30001581:
-    resolution: {integrity: sha512-whlTkwhqV2tUmP3oYhtNfaWGYHDdS3JYFQBKXxcUR9qqPWsRhFHhoISO2Xnl/g0xyKzht9mI1LZpiNWfMzHixQ==}
+  /caniuse-lite@1.0.30001582:
+    resolution: {integrity: sha512-vsJG3V5vgfduaQGVxL53uSX/HUzxyr2eA8xCo36OLal7sRcSZbibJtLeh0qja4sFOr/QQGt4opB4tOy+eOgAxg==}
     dev: true
 
   /chalk@2.4.2:
@@ -1093,8 +1093,8 @@ packages:
       esutils: 2.0.3
     dev: true
 
-  /electron-to-chromium@1.4.653:
-    resolution: {integrity: sha512-wA2A2LQCqnEwQAvwADQq3KpMpNwgAUBnRmrFgRzHnPhbQUFArTR32Ab46f4p0MovDLcg4uqd4nCsN2hTltslpA==}
+  /electron-to-chromium@1.4.654:
+    resolution: {integrity: sha512-hjfFa+Vj4WGLRVTlCQa+IivBkpcp+boGxMQfusOC/me5Y5NfU4wX7wyw+K9p8Cw4tl0BVIZGH2n7y/jMc3w4pg==}
     dev: true
 
   /esbuild@0.19.12:
@@ -1203,7 +1203,7 @@ packages:
       glob-parent: 6.0.2
       globals: 13.24.0
       graphemer: 1.4.0
-      ignore: 5.3.0
+      ignore: 5.3.1
       imurmurhash: 0.1.4
       is-glob: 4.0.3
       is-path-inside: 3.0.3
@@ -1378,7 +1378,7 @@ packages:
       array-union: 2.1.0
       dir-glob: 3.0.1
       fast-glob: 3.3.2
-      ignore: 5.3.0
+      ignore: 5.3.1
       merge2: 1.4.1
       slash: 3.0.0
     dev: true
@@ -1397,8 +1397,8 @@ packages:
     engines: {node: '>=8'}
     dev: true
 
-  /ignore@5.3.0:
-    resolution: {integrity: sha512-g7dmpshy+gD7mh88OC9NwSGTKoc3kyLAZQRU1mt53Aw/vnvfXnbC+F/7F7QoYVKbV+KNvJx8wArewKy1vXMtlg==}
+  /ignore@5.3.1:
+    resolution: {integrity: sha512-5Fytz/IraMjqpwfd34ke28PTVMjZjJG2MPn5t7OE4eUCUNf8BAa7b5WUS9/Qvr6mwOQS7Mk6vdsMno5he+T8Xw==}
     engines: {node: '>= 4'}
     dev: true
 
