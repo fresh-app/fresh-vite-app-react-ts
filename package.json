@@ -25,5 +25,5 @@
     "typescript": "^5.2.2",
     "vite": "^5.1.0"
   },
-  "packageManager": "pnpm@8.15.2+sha1.798034f615aa211c6c2ae00010cc20be5fc102ee"
+  "packageManager": "pnpm@8.15.3+sha1.64838798f519c18029c1e8a1310e16101fc2eda0"
 }
