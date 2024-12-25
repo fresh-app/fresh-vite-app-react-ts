@@ -19,7 +19,7 @@ importers:
         specifier: ^9.17.0
         version: 9.17.0
       '@types/react':
-        specifier: ^18.3.17
+        specifier: ^18.3.18
         version: 18.3.18
       '@types/react-dom':
         specifier: ^18.3.5
@@ -37,16 +37,16 @@ importers:
         specifier: ^0.4.16
         version: 0.4.16(eslint@9.17.0)
       globals:
-        specifier: ^15.13.0
+        specifier: ^15.14.0
         version: 15.14.0
       typescript:
         specifier: ~5.6.2
         version: 5.6.3
       typescript-eslint:
-        specifier: ^8.18.1
+        specifier: ^8.18.2
         version: 8.18.2(eslint@9.17.0)(typescript@5.6.3)
       vite:
-        specifier: ^6.0.3
+        specifier: ^6.0.5
         version: 6.0.5
 
 packages:
