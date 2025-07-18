@@ -26,7 +26,7 @@ importers:
         version: 19.1.6(@types/react@19.1.8)
       '@vitejs/plugin-react':
         specifier: ^4.6.0
-        version: 4.6.0(vite@7.0.4)
+        version: 4.6.0(vite@7.0.5)
       eslint:
         specifier: ^9.30.1
         version: 9.31.0
@@ -47,7 +47,7 @@ importers:
         version: 8.37.0(eslint@9.31.0)(typescript@5.8.3)
       vite:
         specifier: ^7.0.4
-        version: 7.0.4
+        version: 7.0.5
 
 packages:
 
@@ -652,8 +652,8 @@ packages:
   deep-is@0.1.4:
     resolution: {integrity: sha512-oIPzksmTg4/MriiaYGO+okXDT7ztn/w3Eptv/+gSIdMdKsJo0u4CfYNFJPy+4SKMuCqGw2wxnA+URMg3t8a/bQ==}
 
-  electron-to-chromium@1.5.185:
-    resolution: {integrity: sha512-dYOZfUk57hSMPePoIQ1fZWl1Fkj+OshhEVuPacNKWzC1efe56OsHY3l/jCfiAgIICOU3VgOIdoq7ahg7r7n6MQ==}
+  electron-to-chromium@1.5.187:
+    resolution: {integrity: sha512-cl5Jc9I0KGUoOoSbxvTywTa40uspGJt/BDBoDLoxJRSBpWh4FFXBsjNRHfQrONsV/OoEjDfHUmZQa2d6Ze4YgA==}
 
   esbuild@0.25.6:
     resolution: {integrity: sha512-GVuzuUwtdsghE3ocJ9Bs8PNoF13HNQ5TXbEi2AhvVb8xU1Iwt9Fos9FEamfoee+u/TOsn7GUWc04lz46n2bbTg==}
@@ -1049,8 +1049,8 @@ packages:
   uri-js@4.4.1:
     resolution: {integrity: sha512-7rKUyy33Q1yc98pQ1DAmLtwX109F7TIfWlW1Ydo8Wl1ii1SeHieeh0HHfPeL2fMXK6z0s8ecKs9frCuLJvndBg==}
 
-  vite@7.0.4:
-    resolution: {integrity: sha512-SkaSguuS7nnmV7mfJ8l81JGBFV7Gvzp8IzgE8A8t23+AxuNX61Q5H1Tpz5efduSN7NHC8nQXD3sKQKZAu5mNEA==}
+  vite@7.0.5:
+    resolution: {integrity: sha512-1mncVwJxy2C9ThLwz0+2GKZyEXuC3MyWtAAlNftlZZXZDP3AJt5FmwcMit/IGGaNZ8ZOB2BNO/HFUB+CpN0NQw==}
     engines: {node: ^20.19.0 || >=22.12.0}
     hasBin: true
     peerDependencies:
@@ -1573,7 +1573,7 @@ snapshots:
       '@typescript-eslint/types': 8.37.0
       eslint-visitor-keys: 4.2.1
 
-  '@vitejs/plugin-react@4.6.0(vite@7.0.4)':
+  '@vitejs/plugin-react@4.6.0(vite@7.0.5)':
     dependencies:
       '@babel/core': 7.28.0
       '@babel/plugin-transform-react-jsx-self': 7.27.1(@babel/core@7.28.0)
@@ -1581,7 +1581,7 @@ snapshots:
       '@rolldown/pluginutils': 1.0.0-beta.19
       '@types/babel__core': 7.20.5
       react-refresh: 0.17.0
-      vite: 7.0.4
+      vite: 7.0.5
     transitivePeerDependencies:
       - supports-color
 
@@ -1622,7 +1622,7 @@ snapshots:
   browserslist@4.25.1:
     dependencies:
       caniuse-lite: 1.0.30001727
-      electron-to-chromium: 1.5.185
+      electron-to-chromium: 1.5.187
       node-releases: 2.0.19
       update-browserslist-db: 1.1.3(browserslist@4.25.1)
 
@@ -1659,7 +1659,7 @@ snapshots:
 
   deep-is@0.1.4: {}
 
-  electron-to-chromium@1.5.185: {}
+  electron-to-chromium@1.5.187: {}
 
   esbuild@0.25.6:
     optionalDependencies:
@@ -2057,7 +2057,7 @@ snapshots:
     dependencies:
       punycode: 2.3.1
 
-  vite@7.0.4:
+  vite@7.0.5:
     dependencies:
       esbuild: 0.25.6
       fdir: 6.4.6(picomatch@4.0.3)
