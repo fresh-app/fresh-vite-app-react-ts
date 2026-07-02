@@ -25,17 +25,17 @@ importers:
         specifier: ^19.2.3
         version: 19.2.3(@types/react@19.2.17)
       '@vitejs/plugin-react':
-        specifier: ^6.0.2
-        version: 6.0.3(vite@8.1.0(@types/node@24.13.2))
+        specifier: ^6.0.3
+        version: 6.0.3(vite@8.1.2(@types/node@24.13.2))
       oxlint:
-        specifier: ^1.69.0
+        specifier: ^1.71.0
         version: 1.72.0
       typescript:
         specifier: ~6.0.2
         version: 6.0.3
       vite:
-        specifier: ^8.1.0
-        version: 8.1.0(@types/node@24.13.2)
+        specifier: ^8.1.1
+        version: 8.1.2(@types/node@24.13.2)
 
 packages:
 
@@ -464,8 +464,8 @@ packages:
   undici-types@7.18.2:
     resolution: {integrity: sha512-AsuCzffGHJybSaRrmr5eHr81mwJU3kjw6M+uprWvCXiNeN9SOGwQ3Jn8jb8m3Z6izVgknn1R0FTCEAP2QrLY/w==}
 
-  vite@8.1.0:
-    resolution: {integrity: sha512-BuJcQK/56NQTWDGn4ABea3q4SSBdNPWwNZKTkkUpcMPnLoquSYH8llRtSUIgoL1KSCpHt5eghLShn50mH36y7Q==}
+  vite@8.1.2:
+    resolution: {integrity: sha512-6YYPbRXTxx6bRXmOn7XdnQAy5DQNHhDgtjhDHI13oe4pY93kkcdGJWxpGwOm++/Wh0QpQhDrpIoVMrmrsI5AGQ==}
     engines: {node: ^20.19.0 || >=22.12.0}
     hasBin: true
     peerDependencies:
@@ -659,10 +659,10 @@ snapshots:
     dependencies:
       csstype: 3.2.3
 
-  '@vitejs/plugin-react@6.0.3(vite@8.1.0(@types/node@24.13.2))':
+  '@vitejs/plugin-react@6.0.3(vite@8.1.2(@types/node@24.13.2))':
     dependencies:
       '@rolldown/pluginutils': 1.0.1
-      vite: 8.1.0(@types/node@24.13.2)
+      vite: 8.1.2(@types/node@24.13.2)
 
   csstype@3.2.3: {}
 
@@ -802,7 +802,7 @@ snapshots:
 
   undici-types@7.18.2: {}
 
-  vite@8.1.0(@types/node@24.13.2):
+  vite@8.1.2(@types/node@24.13.2):
     dependencies:
       lightningcss: 1.32.0
       picomatch: 4.0.4
